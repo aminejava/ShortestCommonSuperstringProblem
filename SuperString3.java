@@ -1,5 +1,10 @@
-package text;
+/**
+ * Shortest Common Super String Problem 
+ * DATA SET 3 (random instances)
+ * @author Leszek A Gasieniec
+ */
 
+// find the shortest string which contains 
 
 import java.util.*;
 
