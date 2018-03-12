@@ -1,4 +1,8 @@
-package text;
+/**
+ * Shortest Common Super String Problem 
+ * Solution for SuperString 1,2 and 3
+ * @author Amine Ait Mansour
+ */
 
 import java.util.*;
 import java.util.ArrayList;
