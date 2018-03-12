@@ -1,4 +1,10 @@
-package text;
+/**
+ * Shortest Common Super String Problem 
+ * DATA SET 1 (in abba land)
+ * @author Leszek A Gasieniec
+ */
+
+// find the shortest string which contains 
 
 import java.util.*;
 
@@ -70,7 +76,7 @@ public class SuperString1 {
 			else {System.out.println(" Well done! Your quality quotient= "+Quotient);}
 			  
 			   
-   }//gggggg
+   }
 
 }
 
